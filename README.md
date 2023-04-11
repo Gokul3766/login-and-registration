@@ -1,2 +1,2 @@
 # login-and-registration
-project link: https://marvelous-dasik-232d4a.netlify.app
+project link: https://glowing-biscotti-c7a4d9.netlify.app/
